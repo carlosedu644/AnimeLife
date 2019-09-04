@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "371603695370",
+    "firebase_url": "https://animelife-a76cd.firebaseio.com",
+    "project_id": "animelife-a76cd",
+    "storage_bucket": "animelife-a76cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371603695370:android:e2b5a38c17556657",
+        "android_client_info": {
+          "package_name": "com.example.animelife_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371603695370-2so6fd6va9vih9qasaufmf2nb0a2j8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnp4gAaE5c9J2vVnhNrkonL8UNu9630l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371603695370-2so6fd6va9vih9qasaufmf2nb0a2j8fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8648478689251428~5289234012"
+    }
+  ],
+  "configuration_version": "1"
+}
